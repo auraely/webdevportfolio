@@ -41,11 +41,11 @@ p {
 .navbar a {
     
     transition: all .35s;
-    color:#ffffff;
+    color:#ffffff;       /*when hover transition*/
   }
   
   .navbar a:hover, a:focus {
-    color: #fcbd20 !important;
+    color: #fcbd20 !important;              /*changes color*/
   }  
 
 
@@ -59,12 +59,10 @@ p {
 }   
 
 
-
-
 .container-fluid .row img {
     width:350px;
     height:350px;
-    border-radius: 50%
+    border-radius: 50%   /*round shape*/
 }
 
 .imageContainer  {
@@ -72,14 +70,14 @@ p {
 }
 
 .card-img-top  {
-    height:79%;
+    height:79%;              /* Needed to adjust the first card  */
 }
 .container .about-me {
   margin-top: 40px;
 }
 
 .container .skills {
-  margin-top:30px;
+  margin-top:30px;               
 }
 
 .list    {    

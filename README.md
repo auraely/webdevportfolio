@@ -16,7 +16,7 @@ N/A
 
 The website can be viewed in any brower.
 
-![alt text](assets/images/Screenshot(4).png)
+![alt text](./assets/images/screenshot.png)
 
 ##Credits
 
